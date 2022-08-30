@@ -1,6 +1,6 @@
 ### Ola! eu sou Akira Sousa 🙏
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://unmk.com.br) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/canaldoakira) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sousa.akira/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/canaldoakira) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sousa.akira/)
 
 
 ![Akira GitHub stats](https://github-readme-stats.vercel.app/api?username=sousaakira&show_icons=true&theme=dracula)
