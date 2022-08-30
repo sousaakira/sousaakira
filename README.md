@@ -5,6 +5,7 @@
 
 ![Akira GitHub stats](https://github-readme-stats.vercel.app/api?username=sousaakira&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sousaakira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso em meu dia
 
@@ -19,3 +20,8 @@
 </div><br>
 
 Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
+
+### Últimos videos
+
+- [Miniblog Nodejs](https://www.youtube.com/watch?v=BOcxe7RFv0s&list=PL3T5UspHUgZE4FMmDMH36nmgR9JjFRz4_&ab_channel=CanaldoAkira)<br>
+- [Crud com Php e MySql](https://www.youtube.com/watch?v=yE45Zq5AuvQ&list=PL3T5UspHUgZEpOy58mbMVD3sdyiky_JzS&ab_channel=CanaldoAkira)<br>
